@@ -1,4 +1,5 @@
 package solution
+// Richard Lee October 2019
 
 // import "fmt"
 
